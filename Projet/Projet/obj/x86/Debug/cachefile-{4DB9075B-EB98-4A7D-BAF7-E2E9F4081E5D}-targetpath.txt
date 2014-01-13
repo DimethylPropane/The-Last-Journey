@@ -1,0 +1,9 @@
+Content\cat1.xnb
+Content\exitbutton.xnb
+Content\startbutton.xnb
+Content\selector.xnb
+Content\rat-move.xnb
+Content\rat.xnb
+Content\homme.xnb
+Content\cursor.xnb
+Content\SpriteFont1.xnb

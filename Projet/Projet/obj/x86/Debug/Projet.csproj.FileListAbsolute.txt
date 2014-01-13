@@ -1,0 +1,54 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\Projet\Projet\Projet\bin\x86\Debug\Projet.exe
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\Projet\Projet\Projet\bin\x86\Debug\Projet.pdb
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\Projet\Projet\Projet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\Projet\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\Projet\Projet\Projet\obj\x86\Debug\Projet.exe
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\Projet\Projet\Projet\obj\x86\Debug\Projet.pdb
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Content\cat1.xnb
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Content\cat1.xnb
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Projet.exe
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Projet.exe
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\obj\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Content\exitbutton.xnb
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Content\startbutton.xnb
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\Projet\bin\x86\Debug\Content\selector.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.pdb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\cat1.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\exitbutton.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\startbutton.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\selector.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\cat1.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\exitbutton.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\startbutton.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\selector.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Téléchargements\ProjetSup-master\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.pdb

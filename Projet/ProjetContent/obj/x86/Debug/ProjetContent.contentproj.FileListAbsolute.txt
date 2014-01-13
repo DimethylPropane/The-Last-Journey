@@ -1,0 +1,5 @@
+C:\Users\Ben\Documents\Visual Studio 2010\Projects\Projet\Projet\ProjetContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+D:\Téléchargements\ProjetSup-master\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
