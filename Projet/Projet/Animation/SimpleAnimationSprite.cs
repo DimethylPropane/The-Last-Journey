@@ -12,7 +12,7 @@ namespace Projet
     {
         //***********Attributs***********\\
         //public Point Position;
-        
+
         protected Game _game;
         protected Vector2 _position;
         protected Vector2 _speed = new Vector2(5, 5);
@@ -64,6 +64,18 @@ namespace Projet
             set { _position = value; }
         }
 
+        public float PositionCenterX
+        {
+            get { return _position.X; }
+            set { _position.X = value; }
+        }
+
+        public float PositionCenterY
+        {
+            get { return _position.Y; }
+            set { _position.Y = value; }
+        }
+
         // Vitesse
         public Vector2 Speed
         {
@@ -95,17 +107,17 @@ namespace Projet
         public virtual void Initialize()
         {
             Framerate = _definition.FrameRate;
-            _position =new Vector2 (0,0);
+            _position = new Vector2(0, 0);
         }
 
-        public void LoadContent(SpriteBatch spritebatch)
+        public virtual void LoadContent(SpriteBatch spritebatch)
         {
             _sprite = _game.Content.Load<Texture2D>(_definition.AssetName);
             if (spritebatch == null)
                 _spriteBatch = new SpriteBatch(_game.GraphicsDevice);
             else
                 _spriteBatch = spritebatch;
-         
+
             _rotation = 0;
         }
 
@@ -159,9 +171,9 @@ namespace Projet
             if (DoBeginEnd) _spriteBatch.Begin();
 
             _spriteBatch.Draw(_sprite,
-                                  new Rectangle((int)_position.X-_sprite.Width/2,(int) _position.Y-_sprite.Height/2, _definition.FrameSize.X, _definition.FrameSize.Y),
+                                  new Rectangle((int)_position.X - _sprite.Width / 2, (int)_position.Y - _sprite.Height / 2, _definition.FrameSize.X, _definition.FrameSize.Y),
                                   new Rectangle(_currentFrame.X * _definition.FrameSize.X, _currentFrame.Y * _definition.FrameSize.Y, _definition.FrameSize.X, _definition.FrameSize.Y),
-                                  Color.White); 
+                                  Color.White);
 
             if (DoBeginEnd) _spriteBatch.End();
         }

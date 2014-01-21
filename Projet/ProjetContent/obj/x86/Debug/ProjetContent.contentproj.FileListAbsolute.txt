@@ -3,3 +3,9 @@ D:\Users\jorcau\documents\GitHub\ProjetSup\Projet\ProjetContent\obj\x86\Debug\Pr
 C:\Users\Cyprien\Documents\GitHub\ProjetSup\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
 D:\Téléchargements\ProjetSup-master\ProjetSup-master\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
 D:\Téléchargements\ProjetSup-master\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+C:\Users\Cyprien\Documents\GitHub\The-Last-Journey\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+C:\Users\Cyprien\Documents\the-last-journey\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+D:\Téléchargements\The Last Journey\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\Travail\Epita\Projet\ProjetContent\obj\x86\Debug\ProjetContent.contentprojResolveAssemblyReference.cache

@@ -32,11 +32,11 @@ namespace Projet
         {
             _perso = new Character(_game, new SimpleAnimationDefinition()
             {
-                AssetName = "homme",
+                AssetName = "homme2",
                 FrameRate = 50,
                 FrameSize = new Point(50, 50),
                 Loop = true,
-                NbFrames = new Point(8, 4)
+                NbFrames = new Point(4, 4)
             }, _graphics);
             _perso.Initialize();
 

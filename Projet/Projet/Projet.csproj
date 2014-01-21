@@ -109,9 +109,19 @@
   <ItemGroup>
     <Compile Include="Animation\SimpleAnimationDefinition.cs" />
     <Compile Include="Animation\SimpleAnimationSprite.cs" />
-    <Compile Include="Character.cs" />
-    <Compile Include="Menu.cs" />
+    <Compile Include="Character\Bullet-Weapons\Bullet.cs" />
+    <Compile Include="Character\Bullet-Weapons\BulletManager.cs" />
+    <Compile Include="Character\Bullet-Weapons\WeaponMove.cs" />
+    <Compile Include="Character\Bullet-Weapons\Weapon.cs" />
+    <Compile Include="Character\Bullet-Weapons\WeaponManager.cs" />
+    <Compile Include="Character\Character.cs" />
+    <Compile Include="ContentManagerGet.cs" />
+    <Compile Include="FPSComponent.cs" />
+    <Compile Include="Menu\Language.cs" />
+    <Compile Include="Menu\Button.cs" />
+    <Compile Include="Menu\MainMenu.cs" />
     <Compile Include="Entity.cs" />
+    <Compile Include="Menu\Options.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />

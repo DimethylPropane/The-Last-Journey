@@ -52,3 +52,113 @@ D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.csprojR
 D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.exe
 D:\Téléchargements\ProjetSup-master\Projet\Projet\obj\x86\Debug\Projet.pdb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\cat1.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\exitbutton.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\startbutton.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\selector.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Users\jorcau\documents\GitHub\The-Last-Journey\Projet\Projet\obj\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\cat1.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\exitbutton.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\startbutton.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\selector.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Projet.exe
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\bin\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\obj\x86\Debug\Projet.exe
+C:\Users\Cyprien\Desktop\The-Last-Journey\Projet\Projet\obj\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\button.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont_Menu.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Projet.exe
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\obj\x86\Debug\Projet.exe
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\obj\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\wp_1.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\button.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\bullet.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\wp_1.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Content\SpriteFont_Menu.xnb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Téléchargements\The Last Journey\Addramer-the-last-journey-b03352b95dfc\Projet\Projet\obj\x86\Debug\Projet.pdb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont_Menu.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\button.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\bullet.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\wp_1.xnb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Téléchargements\The Last Journey\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Téléchargements\The Last Journey\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Téléchargements\The Last Journey\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Téléchargements\The Last Journey\Projet\Projet\obj\x86\Debug\Projet.pdb
+D:\Téléchargements\The Last Journey\Projet\Projet\bin\x86\Debug\Content\homme2.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\SpriteFont_Menu.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\button.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\bullet.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\wp_1.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Content\homme2.xnb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Dropbox\Travail\Epita\Projet  The Last Journey\The Last Journey\Projet\Projet\obj\x86\Debug\Projet.pdb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\SpriteFont_Menu.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\rat-move.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\rat.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\homme.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\cursor.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\button.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\bullet.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\wp_1.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Content\homme2.xnb
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Projet.exe
+D:\Dropbox\Travail\Epita\Projet\Projet\bin\x86\Debug\Projet.pdb
+D:\Dropbox\Travail\Epita\Projet\Projet\obj\x86\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\Dropbox\Travail\Epita\Projet\Projet\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\Travail\Epita\Projet\Projet\obj\x86\Debug\Projet.exe
+D:\Dropbox\Travail\Epita\Projet\Projet\obj\x86\Debug\Projet.pdb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\homme2.xnb
+C:\Users\Cyprien\Documents\the-last-journey\Projet\Projet\bin\x86\Debug\Content\PIXELTEXTURETEST.xnb

@@ -16,9 +16,14 @@ namespace Projet
         GraphicsDeviceManager _graphics;
         SpriteBatch _spriteBatch;
         SpriteFont _font;
-        int GameState = 1;
-        Menu _menu;
+        Menu mainMenu;
+        Options menuOptions;
         Level _niveau;
+        Weapon testweapon;
+        FPSComponent fpsMonitor;
+
+        public enum GameState { MainMenu, Options, Playing, Exit }
+        public GameState CurrentGameState = GameState.MainMenu;
 
         public Game1()
         {
@@ -31,10 +36,18 @@ namespace Projet
         protected override void Initialize()
         {
             IsMouseVisible = false;
-            _menu = new Menu(this, _graphics);
+            mainMenu = new Menu(this, _graphics);
+            menuOptions = new Options(this, _graphics);
             _niveau = new Level(this, _graphics);
             _niveau.Initialize();
-
+            Language.Initialize();
+            ContentManagerGet.Initialize(this.Content);
+            testweapon = new Weapon("test", 50, 50, 50f, false, new Vector2(700, 700), 1f, null);
+            for (int i = 0; i < 5; i++)
+            {
+                Weapon weapon = new Weapon("test", 50, 50, 50f, false, new Vector2(100 * i, 100 * i), i, null);
+            }
+            fpsMonitor = new FPSComponent(this);
             base.Initialize();
         }
 
@@ -42,9 +55,10 @@ namespace Projet
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             _font = Content.Load<SpriteFont>("SpriteFont1");
-            _menu.LoadContent(this.Content);
-
+            mainMenu.LoadContent(this.Content);
+            menuOptions.LoadContent(this.Content);
             _niveau.LoadContent();
+            fpsMonitor.Initialize();
         }
 
         protected override void UnloadContent()
@@ -53,47 +67,57 @@ namespace Projet
 
         protected override void Update(GameTime gameTime)
         {
-            // Allows the game to exit
-            if (/* Keyboard.GetState().IsKeyDown(Keys.Escape) || */GameState == -1)
-                this.Exit();
-
-            if (GameState == 0)
+            switch(CurrentGameState)
             {
-                _niveau.Update(gameTime);
+                case Game1.GameState.MainMenu:
+                    mainMenu.Update(gameTime, ref CurrentGameState);
+                    break;
 
-                if (Keyboard.GetState().IsKeyDown(Keys.NumPad1) || Keyboard.GetState().IsKeyDown(Keys.Escape))
-                    GameState = 1;
+                case Game1.GameState.Options:
+                    menuOptions.Update(gameTime, ref CurrentGameState);
+                    break;
 
-                base.Update(gameTime);
+                case Game1.GameState.Playing:
+                    WeaponManager.Update(gameTime);
+                    _niveau.Update(gameTime);
+                    BulletManager.Update();
+                    if (Keyboard.GetState().IsKeyDown(Keys.Escape)) CurrentGameState = GameState.MainMenu;
+                    base.Update(gameTime);
+                    break;
+
+                default:
+                    this.Exit();
+                    break;
             }
 
-            if (GameState == 1)
-            {
-                _menu.Update(gameTime, ref GameState);
-                if (Keyboard.GetState().IsKeyDown(Keys.NumPad2))
-                    GameState = 0;
-            }
+            fpsMonitor.Update(gameTime);
 
-        }
+        } 
+
 
         protected override void Draw(GameTime gameTime)
         {
+            GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            if (GameState == 0)
+            switch (CurrentGameState)
             {
-                GraphicsDevice.Clear(Color.CornflowerBlue);
+                case Game1.GameState.MainMenu:
+                    mainMenu.Draw(_spriteBatch);
+                    break;
 
-                _niveau.Draw(gameTime);
+                case Game1.GameState.Options:
+                    menuOptions.Draw(_spriteBatch);
+                    break;
 
-                base.Draw(gameTime);
+                case Game1.GameState.Playing:
+                    WeaponManager.Draw(_spriteBatch);
+                    BulletManager.Draw(_spriteBatch);
+                    _niveau.Draw(gameTime);
+                    base.Draw(gameTime);
+                    break;
             }
 
-            if (GameState == 1)
-            {
-                GraphicsDevice.Clear(Color.MediumPurple);
-                _menu.Draw(_spriteBatch);
-            }
-
+            fpsMonitor.Draw(gameTime);
         }
     }
 }
